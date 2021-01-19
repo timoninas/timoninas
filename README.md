@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<a href="https://github.com/timoninas">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=timoninas&show_icons=true&count_private=true&theme=vue&disable_animations=true" alt="Timoninas's 's github stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timoninas&langs_count=6&count_private=true&layout=compact&theme=vue&disable_animations=true" alt="Timoninas's github top languages"/>
+</a>
+
+
 <!--
 **timoninas/timoninas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
