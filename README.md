@@ -12,6 +12,9 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timoninas&langs_count=6&count_private=true&layout=compact&theme=vue&disable_animations=true&hide=Makefile" alt="Timoninas's github top languages"/>
 </a>
 
+<p align="left">
+  <img class = "wordz" height=300px src = "https://github.com/OlegGibadulin/WordzApp/blob/master/img/presentation.png" link="https://apps.apple.com/us/app/id1532638866">
+</p>
 
 <!--
 **timoninas/timoninas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
