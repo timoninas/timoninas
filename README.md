@@ -1,5 +1,7 @@
 ## Hi there 👋🍪
 
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dotruger.37@gmail.com)](mailto:dotruger.37@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/timoninas)](https://t.me/timoninas)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/timoninas)](https://github.com/timoninas)
 [![AppStore Badge](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white&link=https://apps.apple.com/us/app/id1532638866)](https://apps.apple.com/us/app/id1532638866)
