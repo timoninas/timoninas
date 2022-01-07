@@ -15,6 +15,10 @@
 </a>
 
 <p align="left">
+  <img class = "ficha" height=300px src = "https://github.com/timoninas/CardzApp/blob/develop/documentation/img/PresentationFicha.png" link="https://apps.apple.com/ru/app/ficha/id1602954221?l">
+</p>
+
+<p align="left">
   <img class = "wordz" height=300px src = "https://github.com/OlegGibadulin/WordzApp/blob/master/img/presentation.png" link="https://apps.apple.com/us/app/id1532638866">
 </p>
 
