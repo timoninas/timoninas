@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-  <img class = "wordz" height=300px src = "https://github.com/OlegGibadulin/WordzApp/blob/master/img/presentation.png" link="https://apps.apple.com/us/app/id1532638866">
+  <img class = "wordz" height=350px src = "https://github.com/OlegGibadulin/WordzApp/blob/master/img/presentation.png" link="https://apps.apple.com/us/app/id1532638866">
 </p>
 
 <!--
