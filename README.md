@@ -1,4 +1,4 @@
-## Hi there 👋🍪
+## Hi there 🚀🪐
 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dotruger.37@gmail.com)](mailto:dotruger.37@gmail.com)
